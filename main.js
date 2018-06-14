@@ -1,3 +1,3 @@
 function myFunction() {
-  console.log("Sandy D");
+  console.log("Austin Charles");
 }
